@@ -2,6 +2,8 @@
 
 This tutorial consists of several sections, each focusing on a specific aspect of DSP using GNU Octave.  Examples will be provided, and maybe screenshots too someday!
 
+In addition to gnu octave, you'll also want to install `octave-signal`.
+
 
 ## Section 1: Introduction to GNU Octave for DSP ##
 
